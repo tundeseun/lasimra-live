@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" preserveAspectRatio="xMidYMid slice">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fff8e8"/><stop offset=".48" stop-color="#ffc85a"/><stop offset="1" stop-color="#ef7d21"/></linearGradient><linearGradient id="road" x1="0" x2="1"><stop offset="0" stop-color="#062c22"/><stop offset="1" stop-color="#005a35"/></linearGradient></defs>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <circle cx="1260" cy="120" r="210" fill="#fff1c7" opacity=".5"/>
+  <path d="M820 380 C980 310 1210 310 1600 248 L1600 520 H760Z" fill="#003c25" opacity=".12"/>
+  <g fill="#234052" opacity=".34"><rect x="870" y="165" width="92" height="200" rx="9"/><rect x="990" y="98" width="122" height="267" rx="10"/><rect x="1142" y="145" width="80" height="220" rx="8"/><rect x="1250" y="190" width="120" height="175" rx="9"/><rect x="1405" y="120" width="68" height="245" rx="8"/></g>
+  <path d="M760 520 C910 355 1095 300 1600 290 V520Z" fill="url(#road)" opacity=".85"/>
+  <path d="M760 520 C1010 420 1240 390 1600 405" stroke="#f9ba1b" stroke-width="14" opacity=".9"/>
+  <g transform="translate(960 165)" fill="#ffffff" opacity=".86"><rect width="420" height="230" rx="34"/><rect x="38" y="44" width="150" height="22" rx="11" fill="#d9ded8"/><rect x="38" y="84" width="285" height="22" rx="11" fill="#d9ded8"/><rect x="38" y="126" width="220" height="22" rx="11" fill="#d9ded8"/><circle cx="350" cy="92" r="42" fill="#f5a400" opacity=".82"/><path d="M350 52 v80 M310 92 h80" stroke="#fff" stroke-width="15" stroke-linecap="round"/></g>
+  <path d="M0 0 H730 C655 120 596 210 560 315 C520 430 462 495 355 520 H0Z" fill="#003c25" opacity=".92"/>
+  <path d="M0 0 H625 C580 145 520 255 475 342 C428 434 365 495 270 520 H0Z" fill="#007a3d" opacity=".43"/>
+  <path d="M650 -5 C565 135 530 252 480 352 C430 450 360 510 292 520" stroke="#f05a24" stroke-width="25" fill="none" opacity=".95"/>
+  <path d="M610 -5 C532 140 500 250 455 350 C410 455 325 505 250 520" stroke="#ffc20e" stroke-width="45" fill="none" opacity=".92"/>
+</svg>
